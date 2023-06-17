@@ -64,6 +64,26 @@
       "food_name": "Bozbas",
       "food_cost": "2m",
       "id": 9
+    },
+    {
+      "food_name": "Katlet corey",
+      "food_cost": "2m",
+      "id": 10
+    },
+    {
+      "food_name": "Kartoska free",
+      "food_cost": "3m",
+      "id": 11
+    },
+    {
+      "food_name": "su ",
+      "food_cost": "0.50m",
+      "id": 12
+    },
+    {
+      "food_name": "Americano",
+      "food_cost": "4m",
+      "id": 13
     }
   ],
   "chef": [
